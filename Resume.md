@@ -3,13 +3,26 @@ layout: page
 title: Resume
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+##Education 
 
-Reasons:
-- its great.
-- its a test.
+*Master of Art, Geography*; Hunter College(New York,NY)  
 
-## Other thoughts
+*Advanced Certificate in Geographic Information Systems*; Hunter College(New York,NY)  
 
-This is great.
+*Bachelor of Science in Policy, Planning, and Development*; University of Southern California(Los Angeles, California)
+
+##Experience
+*Current*
+**NYC Department of Finance (DOF), Property Division**
+
+
+
+
+
+
+
+
+
+
+
+
