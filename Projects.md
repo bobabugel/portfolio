@@ -7,6 +7,8 @@ title: Projects
 
 ### Gabon Lidar Project 
 
+### Political District Map
+![](https://github.com/bobabugel/BobAbugel/blob/main/img/Political_District_Map.PNG)
 ## Personal 
 
 ### Swimming Pools 
