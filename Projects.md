@@ -9,7 +9,7 @@ title: Projects
 
 ### Political District Map
 ![](https://github.com/bobabugel/BobAbugel/blob/main/img/Political_District_Map.PNG)
-This is a map of all the area of that are represented by the same politician in New York City. The map was created using leaflet and the data is from NYC DCP. 
+This is a map of all the area of that are represented by the same politician in New York City. The map was created using leaflet and the data is from NYC DCP. [Link to Project](https://github.com/bobabugel/NYC_Policital_District_MAP)
 
 ## Personal 
 
