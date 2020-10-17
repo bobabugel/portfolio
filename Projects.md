@@ -16,3 +16,12 @@ This is a map of all the area of that are represented by the same politician in 
 ### Swimming Pools 
 
 I'm current using remote sensing and lidar data to find and classify swimming pool in Staten Island, New York. The next part of the project the is see if the inground, or above-ground have an impact of market value.Link to project
+
+## Work
+
+### Riis Facilities RFP 2016 
+
+![](https://github.com/bobabugel/portfolio/blob/gh-pages/img/RFP.PNG)
+
+The RFP for the Riis Beach Bathhouse was put by Business Services at Gateway National Recreation Area in 2016. The led by Pam Mclay with language by Karen Edelman. I was an internand did  design and photography for this project. 
+[Link to Project](https://github.com/bobabugel/portfolio/blob/gh-pages/pdf/Riis_Facilities_RFP_2016-1110%20(1).pdf)
