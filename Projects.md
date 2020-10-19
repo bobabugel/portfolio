@@ -23,5 +23,5 @@ I'm current using remote sensing and lidar data to find and classify swimming po
 
 ![](https://github.com/bobabugel/portfolio/blob/gh-pages/img/RFP.PNG)
 
-The RFP for the Riis Beach Bathhouse was put by BusinessServices at Gateway National Recreation Area in 2016. The project was led by Pam Mclay with language by Karen Edelman. I was an intern and did  design work and photography for this project. 
+The Riis Beach Bathhouse Request for Proposals (RFP) was released by Gateway National Recreation Area in 2016. The RFP was developed by Gateway's Business Management Division.  I was an intern in the Business Management Division at the time and did  design work and photography for this project.
 [Link to Project](https://github.com/bobabugel/portfolio/blob/gh-pages/pdf/Riis_Facilities_RFP_2016-1110%20(1).pdf)
