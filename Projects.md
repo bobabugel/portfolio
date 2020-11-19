@@ -17,6 +17,8 @@ This is a map of all the area of that are represented by the same politician in 
 
 I'm current using remote sensing and lidar data to find and classify swimming pool in Staten Island, New York. The next part of the project the is see if the inground, or above-ground have an impact of market value.Link to project
 
+**Story Map ** [Link to Project](https://storymaps.arcgis.com/stories/fecea5bf8fbb4181954efd8a72a28b62)
+
 ## Work
 
 ### Riis Facilities RFP 2016 
