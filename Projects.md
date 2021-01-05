@@ -23,7 +23,7 @@ I'm current using remote sensing and lidar data to find and classify swimming po
 
 ### Rent Freeze Program Report Story Map
 
-The Rent Freeze Program Report Story Map released by New York City Department of Finance in 2018. The report was developed by Data Analytics and Program Evaluation (DAPE), and DAPE subsequently published a StoryMap presentation based on the report. I was an Asst City Assessor in DAPE at the time and did the story map and cartography for this project. [Link to project here] (https://www1.nyc.gov/site/rentfreeze/rent-freeze-reports.page)
+The Rent Freeze Program Report Story Map released by New York City Department of Finance in 2018. The report was developed by Data Analytics and Program Evaluation (DAPE), and DAPE subsequently published a StoryMap presentation based on the report. I was an Asst City Assessor in DAPE at the time and did the story map and cartography for this project. [Link to project here](https://www1.nyc.gov/site/rentfreeze/rent-freeze-reports.page)
 
 
 
